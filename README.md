@@ -1,6 +1,7 @@
 ## Howdy 👋
 
 ### Developer / Full Stack  
+<hr>
 
   <details>
   <summary>My top languages</summary>
