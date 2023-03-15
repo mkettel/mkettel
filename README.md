@@ -20,9 +20,11 @@
   |     3| React     |
 
   </details>
-  <hr>
+ How to reach me: [mattkettelkamp@gmail.com](mailto:mattkettelkamp@gmail.com) or [LinkedIn](https://www.linkedin.com/in/matthew-kettelkamp-100490b2/)
+ <hr>
+ 
   
-  <div align="center">
+  <div align="start">
     <a href="https://github.com/mkettel/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkettel&show_icons=true&theme=transparent" />
     </a>
