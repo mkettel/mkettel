@@ -19,12 +19,16 @@
       - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/Yishui7/-Whateverent)
       - And I am also looking for a job or other freelance projects to work on. 
       
-      
+  ### I am currently working on: <br>
+  > film journal application to help film photographers learn and document
+  > Decentralized Fitness application to give access to gyms
+  > Any and all freelance projects jobs
+
   ### · You can reach me at: <br>
   
       - mattkettelkamp@gmail.com
 
-      <a href="https://github.com/mkettel/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkettel&show_icons=true&theme=transparent" />
-      </a>
+  <a href="https://github.com/mkettel/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkettel&show_icons=true&theme=transparent" />
+  </a>
 
