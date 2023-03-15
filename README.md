@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **mkettel/mkettel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +19,4 @@ Howdy, my name is Matt Kettekamp. I am a fullstack developer who loves coding an
 
 [![Matt Kettelkamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkettel)](https://github.com/mkettel/github-readme-stats)
 
--->
+
