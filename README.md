@@ -1,11 +1,6 @@
-### Hi there 👋
+### Howdy 👋
 
-
-**mkettel/mkettel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Howdy, my name is Matt Kettekamp. I am a fullstack developer who loves coding and working on new projects. 
+Myname is Matt Kettekamp. I am a fullstack developer who loves coding and working on new projects. 
   
   · I am currently working on: <br>
       
