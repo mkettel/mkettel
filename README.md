@@ -20,9 +20,8 @@
    - And I am also looking for a job or other freelance projects to work on. 
       
 
-  - You can reach me at: [mattkettelkamp@gmail.com](mailto:mattkettelkamp@gmail.com)
-  
-  - Projects Listed Here: [matthewkettelkamp.com](https://matthewkettelkamp.com) <br>
+  You can reach me at: [mattkettelkamp@gmail.com](mailto:mattkettelkamp@gmail.com)
+  Projects Listed Here: [matthewkettelkamp.com](https://matthewkettelkamp.com) <br>
   
   
   <div align="center">
