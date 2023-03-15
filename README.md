@@ -3,7 +3,7 @@
 ### My name is Matt Kettekamp. I am a fullstack developer who loves coding and working on new projects. 
 
   <details>
-  <summary>My top languages</summary>
+  ## <summary>My top languages</summary>
 
   | Rank | Languages |
   |-----:|-----------|
