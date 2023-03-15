@@ -15,14 +15,10 @@
   
   ### · I am currently working on: <br>
       
-      - A film photography journaling application to help learn and document the users experience: [filmy-j](https://github.com/mkettel/filmy)
-      - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/Yishui7/-Whateverent)
-      - And I am also looking for a job or other freelance projects to work on. 
+  - A film photography journaling application to help learn and document the users experience: [filmy-j](https://github.com/mkettel/filmy)
+  - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/Yishui7/-Whateverent)
+  - And I am also looking for a job or other freelance projects to work on. 
       
-  ### I am currently working on: <br>
-  > film journal application to help film photographers learn and document
-  > Decentralized Fitness application to give access to gyms
-  > Any and all freelance projects jobs
 
   ### · You can reach me at: <br>
   
