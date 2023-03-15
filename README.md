@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-### Developer / Full Stack  
+### My name is Matt Kettelkamp, Full Stack Developer and lover of the Front End  
 <hr>
 
   <details>
@@ -22,7 +22,7 @@
       
   
   
-  <div align="center">
+  <div align="start">
     <a href="https://github.com/mkettel/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkettel&show_icons=true&theme=transparent" />
     </a>
