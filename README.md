@@ -1,6 +1,6 @@
-### Howdy 👋
+## Howdy 👋
 
-My name is Matt Kettekamp. I am a fullstack developer who loves coding and working on new projects. 
+### My name is Matt Kettekamp. I am a fullstack developer who loves coding and working on new projects. 
 
   <details>
   <summary>My top languages</summary>
@@ -13,14 +13,14 @@ My name is Matt Kettekamp. I am a fullstack developer who loves coding and worki
 
   </details>
   
-  · I am currently working on: <br>
+  ### · I am currently working on: <br>
       
       - A film photography journaling application to help learn and document the users experience: [filmy-j](https://github.com/mkettel/filmy)
       - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/Yishui7/-Whateverent)
       - And I am also looking for a job or other freelance projects to work on. 
       
       
-  · You can reach me at: <br>
+  ### · You can reach me at: <br>
   
       - mattkettelkamp@gmail.com
 
