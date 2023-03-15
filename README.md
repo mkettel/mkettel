@@ -23,6 +23,7 @@ My name is Matt Kettekamp. I am a fullstack developer who loves coding and worki
   
       - mattkettelkamp@gmail.com
 
-[![Matt Kettelkamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkettel)](https://github.com/mkettel/github-readme-stats)
-
+<p align="center"> 
+  [![Matt Kettelkamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkettel)](https://github.com/mkettel/github-readme-stats)
+</p>
 
