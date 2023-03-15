@@ -1,8 +1,15 @@
 ## Howdy 👋
 
-### My name is Matt Kettelkamp, Full Stack Developer and lover of the Front End  
+### My name is Matt Kettelkamp, Full Stack Developer and lover of all things Front End  
 <hr>
 
+  
+  ### I am currently working on: <br>
+      
+   - A film photography journaling application to help learn and document the users experience: [filmy-j](https://github.com/mkettel/filmy)
+   - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/SkiltonJ/DeFit)
+   - And I am also looking for a job or other freelance projects to work on. 
+      
   <details>
   <summary>My top languages</summary>
 
@@ -13,14 +20,7 @@
   |     3| React     |
 
   </details>
-  
-  ### I am currently working on: <br>
-      
-   - A film photography journaling application to help learn and document the users experience: [filmy-j](https://github.com/mkettel/filmy)
-   - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/SkiltonJ/DeFit)
-   - And I am also looking for a job or other freelance projects to work on. 
-      
-  
+  <hr>
   
   <div align="start">
     <a href="https://github.com/mkettel/github-readme-stats">
