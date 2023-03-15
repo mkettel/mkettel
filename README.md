@@ -1,6 +1,17 @@
 ### Howdy 👋
 
 My name is Matt Kettekamp. I am a fullstack developer who loves coding and working on new projects. 
+
+  <details>
+  <summary>My top languages</summary>
+
+  | Rank | Languages |
+  |-----:|-----------|
+  |     1| Ruby      |
+  |     2| Javascript|
+  |     3| React     |
+
+  </details>
   
   · I am currently working on: <br>
       
@@ -8,16 +19,6 @@ My name is Matt Kettekamp. I am a fullstack developer who loves coding and worki
       - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/Yishui7/-Whateverent)
       - And I am also looking for a job or other freelance projects to work on. 
       
-  <details>
-  <summary>My top languages</summary>
-
-  | Rank | Languages |
-  |-----:|-----------|
-  |     1| Javascript|
-  |     2| Python    |
-  |     3| SQL       |
-
-  </details>
       
   · You can reach me at: <br>
   
