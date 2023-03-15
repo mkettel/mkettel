@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-### My name is Matt Kettekamp. I am a fullstack developer who loves coding and working on new projects. 
+### Developer / Full Stack  
 
   <details>
   <summary>My top languages</summary>
