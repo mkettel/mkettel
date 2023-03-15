@@ -20,7 +20,9 @@
   |     3| React     |
 
   </details>
- How to reach me: [mattkettelkamp@gmail.com](mailto:mattkettelkamp@gmail.com) or [LinkedIn](https://www.linkedin.com/in/matthew-kettelkamp-100490b2/)
+  
+  - How to reach me: [mattkettelkamp@gmail.com](mailto:mattkettelkamp@gmail.com) or [LinkedIn](https://www.linkedin.com/in/matthew-kettelkamp-100490b2/)
+  
  <hr>
  
   
