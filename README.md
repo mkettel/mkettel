@@ -19,9 +19,6 @@
    - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/SkiltonJ/DeFit)
    - And I am also looking for a job or other freelance projects to work on. 
       
-
-  You can reach me at: [mattkettelkamp@gmail.com](mailto:mattkettelkamp@gmail.com) <br>
-  Projects Listed Here: [matthewkettelkamp.com](https://matthewkettelkamp.com) <br>
   
   
   <div align="center">
