@@ -16,9 +16,10 @@
 
   | Rank | Languages |
   |-----:|-----------|
-  |     1| Ruby      |
-  |     2| Javascript|
-  |     3| React     |
+  |     1| Javascript|
+  |     2| React     |
+  |     3| Ruby      |
+  |     4| Three.js. |
 
   </details>
   
