@@ -8,7 +8,7 @@
       
    - A film photography journaling application to help the photographer learn and document: [filmy-j](https://github.com/mkettel/filmy)
    - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/SkiltonJ/DeFit)
-   - Learning Three.js and Blender for some 3D experience
+   - Learning Three.js and Blender to learn 3D Development.
    - Looking for projects or Full-time / Part-time positions. 
       
   <details>
