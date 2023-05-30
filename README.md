@@ -6,9 +6,9 @@
   
   ### I am currently working on: <br>
       
+   - Educational chrome extension to help build teachers curriculums with short form content.
    - A film photography journaling application to help the photographer learn and document: [filmy-j](https://github.com/mkettel/filmy)
-   - Decentralized Fitness application to help give better and easier access to gyms: [Defit.](https://github.com/SkiltonJ/DeFit)
-   - Learning Three.js and Blender to learn 3D Development.
+   - Learning Three.js and React Three Fiber for 3D front end development projects such as my 3D Resume: [3D Resume](https://github.com/mkettel/3d-resume)
    - Looking for projects or Full-time / Part-time positions. 
       
   <details>
