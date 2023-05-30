@@ -28,11 +28,4 @@
   - [LinkedIn](https://www.linkedin.com/in/matthew-kettelkamp-100490b2/)
   
  <hr>
- 
-  
-  <div align="start">
-    <a href="https://github.com/mkettel/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkettel&show_icons=true&theme=transparent" />
-    </a>
-  <div>
 
