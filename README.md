@@ -6,8 +6,8 @@
   
   ### I am currently working on: <br>
       
-   - Educational chrome extension to help teachers add entertaining short form content to their curriculums.
-   - A film photography journaling application to help the photographer learn and document: [filmy-j](https://github.com/mkettel/filmy)
+   - Educational Chrome extension to help teachers add entertaining short-form content to their curriculums.
+   - A house knowledge base of videos utilizing an interactive 3D model, R3F and React: [HomeBase](https://github.com/mkettel/HomeBase)
    - Learning Three.js and React Three Fiber for 3D front end development projects such as my [3D Resume](https://github.com/mkettel/3d-resume)
    - Looking for projects or Full-time / Part-time positions. 
       
