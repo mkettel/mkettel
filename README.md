@@ -6,8 +6,8 @@
   
   ### I am currently working on: <br>
       
-   - Too many projects at once, but I love it.
-   - Finding ways to incorporate 3D into sites even when it's not needed.
+   - Creative projects at PXL Agency
+   - Random small projects for fun
       
   <details>
   <summary>My top languages</summary>
