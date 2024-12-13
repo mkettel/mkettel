@@ -1,13 +1,14 @@
 ## Howdy 👋
 
-### My name is Matt Kettelkamp, Full Stack Developer and lover of all things Front End  
+### My name is Matt Kettelkamp, I am a developer interested in learning and building upon my current skillset.
+#### I spend a lot of time using Next.js and Typescript to build projects that I find interesting.
 <hr>
 
   
   ### I am currently working on: <br>
       
    - Creative projects at PXL Agency
-   - Random small projects for fun
+   - Other ideas I personally find interesting
       
   <details>
   <summary>My top languages</summary>
