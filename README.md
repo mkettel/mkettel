@@ -18,6 +18,7 @@
   |     2| React                    |
   |     3| Three.js                 |
   |     4| Nextjs                   |
+  lots of JS
 
   </details>
   
