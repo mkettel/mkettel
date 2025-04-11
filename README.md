@@ -7,7 +7,8 @@
   
   ### I am currently working on: <br>
       
-   - Creative projects at PXL Agency
+   - Automating the Rebate process at Resolv
+   - A 3D Learning platform for understanding electrophysiology
    - Other ideas I personally find interesting
       
   <details>
