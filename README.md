@@ -8,8 +8,8 @@
   ### I am currently working on: <br>
       
    - Automating the Rebate process at Resolv
-   - A 3D Learning platform for understanding electrophysiology
-   - Other ideas I personally find interesting
+   - A new way of learning and teaching Electrophysiology
+   - Anything else fun and interesting. Ideally 3D projects
       
   <details>
   <summary>My top languages</summary>
